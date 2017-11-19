@@ -14,7 +14,14 @@ dependencies {
     testCompile group: 'org.testng', name: 'testng', version: '6.1.1'
 }
 
+task testng(type: Test) {
+    useTestNG()
+    reports.html.destination = file("$buildDir/reports/testng")
+}
+
+test.dependsOn testng
+
 test {
     useJUnit()
-    useTestNG()
+    reports.html.destination = file("$buildDir/reports/junit")
 }
