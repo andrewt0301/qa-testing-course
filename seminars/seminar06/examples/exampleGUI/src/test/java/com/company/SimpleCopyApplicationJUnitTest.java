@@ -1,16 +1,16 @@
 package com.company;
 
-import org.assertj.swing.edt.GuiQuery;
+import java.awt.Dimension;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import org.assertj.swing.edt.GuiQuery;
 import org.assertj.swing.edt.FailOnThreadViolationRepaintManager;
 import org.assertj.swing.edt.GuiActionRunner;
 import org.assertj.swing.fixture.FrameFixture;
-
-import java.awt.*;
 
 public class SimpleCopyApplicationJUnitTest {
     private FrameFixture window;

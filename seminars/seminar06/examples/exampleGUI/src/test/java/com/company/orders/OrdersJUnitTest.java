@@ -1,6 +1,11 @@
 package com.company.orders;
 
 import org.assertj.swing.core.matcher.DialogMatcher;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
 import org.assertj.swing.core.matcher.JButtonMatcher;
 import org.assertj.swing.data.TableCell;
 import org.assertj.swing.edt.FailOnThreadViolationRepaintManager;
@@ -8,12 +13,8 @@ import org.assertj.swing.edt.GuiActionRunner;
 import org.assertj.swing.edt.GuiQuery;
 import org.assertj.swing.fixture.DialogFixture;
 import org.assertj.swing.fixture.FrameFixture;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
 
-public class OrdersTestNGTest {
+public class OrdersJUnitTest {
     private FrameFixture window;
 
     @BeforeClass
@@ -21,7 +22,7 @@ public class OrdersTestNGTest {
         FailOnThreadViolationRepaintManager.install();
     }
 
-    @BeforeMethod
+    @Before
     public void setUp() {
         final JfrmMain frame = GuiActionRunner.execute(new GuiQuery<JfrmMain>(){
             @Override
@@ -56,11 +57,11 @@ public class OrdersTestNGTest {
         // Closing the window
         window.close();
         final DialogFixture confirmation =
-                window.dialog(DialogMatcher.withTitle("Confirmation"));
+            window.dialog(DialogMatcher.withTitle("Confirmation"));
         confirmation.button(JButtonMatcher.withText("No")).click();
     }
 
-    @AfterMethod
+    @After
     public void tearDown() {
         window.cleanUp();
     }
