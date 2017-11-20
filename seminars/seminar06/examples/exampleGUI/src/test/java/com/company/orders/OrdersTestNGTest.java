@@ -1,6 +1,7 @@
 package com.company.orders;
 
 import org.assertj.swing.core.matcher.JButtonMatcher;
+import org.assertj.swing.data.TableCell;
 import org.assertj.swing.edt.FailOnThreadViolationRepaintManager;
 import org.assertj.swing.edt.GuiActionRunner;
 import org.assertj.swing.edt.GuiQuery;
@@ -33,15 +34,23 @@ public class OrdersTestNGTest {
     }
 
     @Test
-    public void testOrders() {
-       window.menuItemWithPath("File", "New").click();
-       window.menuItemWithPath("Orders", "New order...").click();
+    public void testOrders() throws InterruptedException {
+        // Menu Item Selection
+        window.menuItemWithPath("File", "New").click();
+        window.menuItemWithPath("Orders", "New order...").click();
 
-       final DialogFixture dialog = window.dialog();
-       dialog.comboBox("jcbProduct").selectItem("FamilyAlbum");
-       dialog.spinner("jspQuantity").enterText("10");
-       dialog.textBox("jtfName").enterText("John Doe");
-       dialog.button(JButtonMatcher.withText("Ok"));
+        // Filling an order
+        final DialogFixture dialog = window.dialog();
+        dialog.comboBox("jcbProduct").selectItem("FamilyAlbum");
+        dialog.spinner("jspQuantity").enterText("10");
+        dialog.textBox("jtfName").enterText("John Doe");
+        dialog.button(JButtonMatcher.withText("Ok")).click();
+
+        // Checking table contents
+        window.table().requireCellValue(
+           TableCell.row(0).column(0),
+          "John Doe"
+        );
     }
 
     @AfterMethod
