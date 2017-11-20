@@ -1,10 +1,10 @@
 package com.company;
 
 import org.assertj.swing.edt.GuiQuery;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
 
 import org.assertj.swing.edt.FailOnThreadViolationRepaintManager;
 import org.assertj.swing.edt.GuiActionRunner;
@@ -12,7 +12,7 @@ import org.assertj.swing.fixture.FrameFixture;
 
 import java.awt.*;
 
-public class SimpleCopyApplicationTestNGTest {
+public class SimpleCopyApplicationJUnitTest {
     private FrameFixture window;
 
     @BeforeClass
@@ -20,7 +20,7 @@ public class SimpleCopyApplicationTestNGTest {
         FailOnThreadViolationRepaintManager.install();
     }
 
-    @BeforeMethod
+    @Before
     public void setUp() {
         final SimpleCopyApplication frame = GuiActionRunner.execute(new GuiQuery<SimpleCopyApplication>() {
             @Override
@@ -40,7 +40,7 @@ public class SimpleCopyApplicationTestNGTest {
         window.label("copiedText").requireText("Some random text");
     }
 
-    @AfterMethod
+    @After
     public void tearDown() {
         window.cleanUp();
     }
