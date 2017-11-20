@@ -55,10 +55,10 @@ public class OrdersJUnitTest {
         );
 
         // Closing the window
-        window.close();
+        /*window.close();
         final DialogFixture confirmation =
             window.dialog(DialogMatcher.withTitle("Confirmation"));
-        confirmation.button(JButtonMatcher.withText("No")).click();
+        confirmation.button(JButtonMatcher.withText("No")).click();*/
     }
 
     @After

@@ -50,14 +50,14 @@ public class OrdersTestNGTest {
         // Checking table contents
         window.table().requireCellValue(
            TableCell.row(0).column(0),
-          "John Doe"
+          "John Doe1"
         );
 
         // Closing the window
-        window.close();
+        /*window.close();
         final DialogFixture confirmation =
                 window.dialog(DialogMatcher.withTitle("Confirmation"));
-        confirmation.button(JButtonMatcher.withText("No")).click();
+        confirmation.button(JButtonMatcher.withText("No")).click();*/
     }
 
     @AfterMethod
