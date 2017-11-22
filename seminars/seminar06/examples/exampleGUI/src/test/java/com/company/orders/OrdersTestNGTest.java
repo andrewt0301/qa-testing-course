@@ -50,7 +50,7 @@ public class OrdersTestNGTest {
         // Checking table contents
         window.table().requireCellValue(
            TableCell.row(0).column(0),
-          "John Doe1"
+          "John Doe"
         );
 
         // Closing the window
