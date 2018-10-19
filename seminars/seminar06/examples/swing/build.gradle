@@ -1,14 +1,7 @@
 group 'swing'
 version '1.0-SNAPSHOT'
 
-buildscript {
-    repositories {
-        mavenCentral()
-    }
-}
-
 apply plugin: 'java'
-
 sourceCompatibility = 1.7
 
 repositories {
