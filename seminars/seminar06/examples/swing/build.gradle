@@ -1,5 +1,11 @@
-group 'exampleGUI'
+group 'swing'
 version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
 
 apply plugin: 'java'
 
