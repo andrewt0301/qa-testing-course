@@ -32,6 +32,38 @@ public final class Coverage {
     }
   }
 
+  public static void methodOrAB(boolean a, boolean b) {
+    if (a || b) {
+      System.out.println("methodOrAB:a || b");
+    } else {
+      System.out.println("methodOrAB:!(a || b)");
+    }
+  }
+
+  public static void methodAndAB(boolean a, boolean b) {
+    if (a && b) {
+      System.out.println("methodOrAB:a && b");
+    } else {
+      System.out.println("methodOrAB:!(a && b)");
+    }
+  }
+
+  public static void methodOrABC(boolean a, boolean b, boolean c) {
+    if (a || b || c) {
+      System.out.println("methodOrAB:a || b || c");
+    } else {
+      System.out.println("methodOrAB:!(a || b || c)");
+    }
+  }
+
+  public static void methodAndABC(boolean a, boolean b, boolean c) {
+    if (a && b && c) {
+      System.out.println("methodOrAB:a && b && c");
+    } else {
+      System.out.println("methodOrAB:!(a && b && c)");
+    }
+  }
+
   public static void methodOrABCD(boolean a, boolean b, boolean c, boolean d) {
     if (a || b || c || d) {
       System.out.println("methodOrABCD:a || b || c || d");
