@@ -1,5 +1,6 @@
 package com.company;
 
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -12,12 +13,30 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BasicSeleniumTestNGTest {
-  @BeforeClass
-  public static void setUpClass() throws Exception {
+
+  /**
+   * Sets up the Chrome driver.
+   */
+  public static void initChromeDriver() {
+    // Proper version of chromedriver can be downloaded from here:
+    // https://chromedriver.chromium.org
+    final String pathToDriver = Paths.get("chromedriver").toAbsolutePath().toString();
+    System.setProperty("webdriver.chrome.driver", pathToDriver);
+  }
+
+  /**
+   * Sets up the Firefox driver.
+   */
+  public static void initFirefoxDriver() {
     // Proper version of geckodriver can be downloaded from here:
     // https://github.com/mozilla/geckodriver/releases
     final String pathToGeckoDriver = Paths.get("geckodriver").toAbsolutePath().toString();
     System.setProperty("webdriver.gecko.driver", pathToGeckoDriver);
+  }
+
+  @BeforeClass
+  public static void setUpClass() throws Exception {
+    initChromeDriver();
   }
 
   @Test
@@ -25,7 +44,7 @@ public class BasicSeleniumTestNGTest {
     // Create a new instance of the Firefox driver
     // Notice that the remainder of the code relies on the interface,
     // not the implementation.
-    final WebDriver driver = new FirefoxDriver();
+    final WebDriver driver = new ChromeDriver();
 
     // And now use this to visit Google
     driver.get("http://www.google.com");
