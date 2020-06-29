@@ -1,4 +1,6 @@
-Quality Assurance and Testing
+Quality Assurance and Testing Course
+---
+[![Apache License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 ---
 
 This is a hosting for materials for seminars for
@@ -12,5 +14,3 @@ See seminar topics [here](seminars/README.md).
 
 __TODO__
 
-The materials are licensed under the Apache License, Version 2.0:
-    http://www.apache.org/licenses/LICENSE-2.0
