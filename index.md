@@ -18,6 +18,7 @@ __Telegram-канал для объявлений по курсу и общен�
    https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar01)
    ДЗ находится [здесь](
    https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar01/HomeTasks01.docx).
+   Видео. [Часть 1](https://yadi.sk/i/yucV9HEKHcdYBA) [Часть 2](https://yadi.sk/i/SDmFKlO_gqysEw).  
 
 __TODO__ Темы будут добавляться в процессе.
 
