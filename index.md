@@ -5,14 +5,6 @@
 ["Обеспечение качества и тестирование"](https://www.hse.ru/edu/courses/339549269), который
 читается на [Факультете компьютерных наук Высшей школы экономики](https://cs.hse.ru).
 
-## Ссылки
-
-Материалы разработаны совместно с [Денисом Кильдишевым](https://github.com/ruswizard).
-Его версия материалов находятся [здесь](seminars/denis/index.htm).
-
-Сайт [Виктора Кулямина](https://www.hse.ru/org/persons/161646599)
-с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home). 
-
 __Семинары в данный момент проводятся в Zoom-е. Приглашение [здесь](zoom.md)__.
 
 __Telegram-канал для объявлений по курсу и общения [здесь](https://t.me/joinchat/AAAAAFTYn_XTYjzGzIP96w)__.
@@ -38,3 +30,11 @@ __Внимание: При нарушении этих правил работа
 
 Таблицу с оценками можно найти [здесь](
 https://docs.google.com/spreadsheets/d/1anuTyzeSxM6RLMrjRPikc1xGUy3RIsUMGwwNzaJ7HBk/edit?usp=sharing).
+
+## Ссылки
+
+Материалы разработаны совместно с [Денисом Кильдишевым](https://github.com/ruswizard).
+Его версия материалов находятся [здесь](seminars/denis/index.htm).
+
+Сайт [Виктора Кулямина](https://www.hse.ru/org/persons/161646599)
+с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home). 
