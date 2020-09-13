@@ -9,7 +9,8 @@
 Материалы разработаны совместно с [Денисом Кильдишевым](https://github.com/ruswizard).
 Его версия материалов находятся [здесь](seminars/denis/index.htm).
 
-Сайт Виктора Кулямина с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home). 
+Сайт [Виктора Кулямина](https://www.hse.ru/org/persons/161646599)
+с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home). 
 
 __Семинары в данный момент проводятся в Zoom-е. Приглашение [здесь](zoom.md)__.
 
