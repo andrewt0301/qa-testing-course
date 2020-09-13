@@ -2,12 +2,12 @@
 --
 # Введение в обеспечения качества и тестирование. Работа с требованиями.
 
-## Слайды семинара
+## Слайды
 
 * [PDF](Seminar01-slides.pdf)
 * [PPTX](Seminar01-slides.pptx)
 
-## Видео семинара
+## Видео
 
 * [Часть 1](https://yadi.sk/i/yucV9HEKHcdYBA)
 * [Часть 2](https://yadi.sk/i/SDmFKlO_gqysEw)
