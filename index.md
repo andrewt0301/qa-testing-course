@@ -12,8 +12,10 @@ __Семинары в данный момент проводятся в Zoom-е.
 ## Темы семинаров
 
 
-1. [Введение в обеспечения качества и тестирование. Работа с требованиями.](seminars/seminar01)
-   ДЗ находится [здесь](seminars/seminar01/HomeTasks01.docx).
+1. [Введение в обеспечения качества и тестирование. Работа с требованиями.](
+   https://github.com/andrewt0301/qa-testing-course/seminars/seminar01)
+   ДЗ находится [здесь](
+   https://github.com/andrewt0301/qa-testing-course/seminars/seminar01/HomeTasks01.docx).
 
 __TODO__ Темы будут добавляться в процессе.
 
