@@ -17,12 +17,18 @@ https://github.com/andrewt0301/qa-testing-course/issues).
 Рабочий процесс Git Workflow описан [здесь](
 https://nvie.com/posts/a-successful-git-branching-model/).
 
+#### Запахи в коде и анти-паттерны
+
+* [Запахи](https://en.wikipedia.org/wiki/Code_smell)
+* [Анти-паттерны](https://en.wikipedia.org/wiki/Anti-pattern)
+
 ### Домашнее задание
 
 __Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
 
-* Задание ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx))
-* [Файл с кодом](Power.java)
+* Задание ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx)).
+* [Файл с кодом](
+https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar02/Power.java).
 
 <!---
 
@@ -30,11 +36,6 @@ __Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
 
 * [Часть 1](https://yadi.sk/i/yucV9HEKHcdYBA)
 * [Часть 2](https://yadi.sk/i/SDmFKlO_gqysEw)
-
-### Методичка (дополнительно)
-
-* [PDF](Seminar01.pdf)
-* [DOC](Seminar01.docx)
 
 -->
 
