@@ -7,6 +7,15 @@
 * [PDF](Seminar02-slides.pdf)
 * [PPTX](Seminar02-slides.pptx)
 
+#### Документирование проблем
+
+Примеры требования, задачи на тестирование этого требования и баг-репорта [здесь](
+https://github.com/andrewt0301/qa-testing-course/issues).
+
+#### Работа с Git
+
+Рабочий процесс Git Workflow описан [здесь](
+https://nvie.com/posts/a-successful-git-branching-model/).
 
 ### Домашнее задание
 
