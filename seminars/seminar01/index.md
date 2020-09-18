@@ -21,10 +21,9 @@ __Дедлайн: 26.09.2020__
 Прислать получившийся документ.
 
 * Немного теории. [IEEE 754](https://ru.wikipedia.org/wiki/IEEE_754-2008).
-  [Слайды](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/lectures/04-float.pdf)
-  с описанием чисел с плавающей точкой.
-* Задание. [PDF](HomeTasks01.pdf). [DOC](HomeTasks01.docx).
-* Файл со стандартом (спецификация). [PDF](Standards.pdf). [DOC](Standards.doc).
+  Слайды ([PDF](FP.pdf), [DOC](FP.pdf)) с описанием чисел с плавающей точкой.
+* Задание ([PDF](HomeTasks01.pdf)б [DOC](HomeTasks01.docx)).
+* Файл-спецификация ([PDF](Standards.pdf), [DOC](Standards.doc)).
 
 ### Методичка (дополнительно)
 
