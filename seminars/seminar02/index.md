@@ -7,6 +7,13 @@
 * [PDF](Seminar02-slides.pdf)
 * [PPTX](Seminar02-slides.pptx)
 
+### Видео
+
+Лучше читайте материалы? :-)
+
+* TODO [Часть 1]()
+* TODO [Часть 2]()
+
 #### Документирование проблем
 
 Примеры требования, задачи на тестирование этого требования и баг-репорта [здесь](
@@ -26,18 +33,11 @@ https://nvie.com/posts/a-successful-git-branching-model/).
 
 __Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
 
-* Задание ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx)).
+Инспекция кода метода возведения в степень.
+
+* Описание задания ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx)).
 * [Файл с кодом](
 https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar02/Power.java).
-
-<!---
-
-### Видео
-
-* [Часть 1](https://yadi.sk/i/yucV9HEKHcdYBA)
-* [Часть 2](https://yadi.sk/i/SDmFKlO_gqysEw)
-
--->
 
 ### Ссылки
 
