@@ -38,3 +38,11 @@ https://docs.google.com/spreadsheets/d/1anuTyzeSxM6RLMrjRPikc1xGUy3RIsUMGwwNzaJ7
 
 Сайт [Виктора Кулямина](https://www.hse.ru/org/persons/161646599)
 с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home). 
+
+## Обратная связь
+
+Если у вас есть вопрос или замечания по материалам сайта, вы можете задать вопрос в
+[Telegram-канале](https://t.me/joinchat/AAAAAFTYn_XTYjzGzIP96w) или создать
+[issue](https://github.com/andrewt0301/qa-testing-acos-course/issues) в проекте. 
+Автор будет благодарен, если вы поставите звездочку в проекте на [GitHub](
+https://github.com/andrewt0301/qa-testing-acos-course). Это поможет его улучшить.
