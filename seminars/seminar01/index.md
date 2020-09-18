@@ -22,7 +22,7 @@ __Срок сдачи без [штрафа](../../grading.md): 26.09.2020__
 
 * Wikipedia - [IEEE 754](https://ru.wikipedia.org/wiki/IEEE_754-2008).
 * Слайды с описанием чисел с плавающей точкой ([PDF](FP.pdf), [DOC](FP.pdf)).
-* Задание ([PDF](HomeTasks01.pdf), [DOC](HomeTasks01.docx)).
+* Подробное описание задания ([PDF](HomeTasks01.pdf), [DOC](HomeTasks01.docx)).
 * Файл-спецификация ([PDF](Standards.pdf), [DOC](Standards.doc)).
 
 ### Методичка (дополнительно)
