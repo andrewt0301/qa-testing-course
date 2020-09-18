@@ -20,9 +20,9 @@ __Дедлайн: 26.09.2020__
 В этих [спецификациях](Standards.doc) выделить фрагменты текста, являющиеся требованиями.
 Прислать получившийся документ.
 
-* Немного теории. [IEEE 754](https://ru.wikipedia.org/wiki/IEEE_754-2008).
-  Слайды ([PDF](FP.pdf), [DOC](FP.pdf)) с описанием чисел с плавающей точкой.
-* Задание ([PDF](HomeTasks01.pdf)б [DOC](HomeTasks01.docx)).
+* Wikipedia - [IEEE 754](https://ru.wikipedia.org/wiki/IEEE_754-2008).
+* Слайды с описанием чисел с плавающей точкой ([PDF](FP.pdf), [DOC](FP.pdf)).
+* Задание ([PDF](HomeTasks01.pdf), [DOC](HomeTasks01.docx)).
 * Файл-спецификация ([PDF](Standards.pdf), [DOC](Standards.doc)).
 
 ### Методичка (дополнительно)
