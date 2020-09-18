@@ -24,7 +24,7 @@ https://github.com/andrewt0301/qa-testing-course/issues).
 Рабочий процесс Git Workflow описан [здесь](
 https://nvie.com/posts/a-successful-git-branching-model/).
 
-#### Запахи в коде и анти-паттерны
+#### Запахи и анти-паттерны в коде
 
 * [Запахи](https://en.wikipedia.org/wiki/Code_smell)
 * [Анти-паттерны](https://en.wikipedia.org/wiki/Anti-pattern)
@@ -42,7 +42,7 @@ __Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
 Провести инспекцию данного куска кода (с ролевым разделением или индивидульно).
 Прислать отчет со списком выявленных проблем.
 
-* Описание задания ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx)).
+* Описание задания ([PDF](Seminar02.pdf), [DOC](Seminar02.docx)).
 * [Файл с кодом](
 https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar02/Power.java).
 
