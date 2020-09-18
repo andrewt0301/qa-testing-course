@@ -16,8 +16,8 @@
 
 __Дедлайн: ??.09.2020__
 
-* [Задание](HomeTasks01.docx)
-* [Файл со стандартом](Standards.doc)
+* Задание. [PDF](HomeTasks01.pdf). [DOC](HomeTasks01.docx).
+* Файл со стандартом. [PDF](Standards.pdf). [DOC](Standards.doc).
 
 ### Методичка (дополнительно)
 
