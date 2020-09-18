@@ -7,17 +7,20 @@
 * [PDF](Seminar02-slides.pdf)
 * [PPTX](Seminar02-slides.pptx)
 
+
+### Домашнее задание
+
+__Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
+
+* Задание ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx))
+* [Файл с кодом](Power.java)
+
 <!---
 
 ### Видео
 
 * [Часть 1](https://yadi.sk/i/yucV9HEKHcdYBA)
 * [Часть 2](https://yadi.sk/i/SDmFKlO_gqysEw)
-
-### Домашнее задание
-
-* [Задание](HomeTasks01.docx)
-* [Файл со стандартом](Standards.doc)
 
 ### Методичка (дополнительно)
 
