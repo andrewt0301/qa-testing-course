@@ -29,11 +29,18 @@ https://nvie.com/posts/a-successful-git-branching-model/).
 * [Запахи](https://en.wikipedia.org/wiki/Code_smell)
 * [Анти-паттерны](https://en.wikipedia.org/wiki/Anti-pattern)
 
+#### Оценка качества кода проекта
+
+[Статья](https://github.com/yegor256/qfu/releases/latest/download/article.pdf)
+с описанием подхода, которым мы пользуемся. В разработке.
+
 ### Домашнее задание
 
 __Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
 
 Инспекция кода метода возведения в степень.
+Провести инспекцию данного куска кода (с ролевым разделением или индивидульно).
+Прислать отчет со списком выявленных проблем.
 
 * Описание задания ([PDF](HomeTasks02.pdf), [DOC](HomeTasks02.docx)).
 * [Файл с кодом](
