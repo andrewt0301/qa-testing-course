@@ -42,7 +42,7 @@ __Срок сдачи без [штрафа](../../grading.md): ??.09.2020__
 Провести инспекцию данного куска кода (с ролевым разделением или индивидульно).
 Прислать отчет со списком выявленных проблем.
 
-* Описание задания ([PDF](Seminar02.pdf), [DOC](Seminar02.docx)).
+* Описание задания ([PDF](HomeTasks02.pdf), [DOCX](HomeTasks02.docx)).
 * [Файл с кодом](
 https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar02/Power.java).
 
