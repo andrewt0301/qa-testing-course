@@ -19,7 +19,9 @@ __Дедлайн: 26.09.2020__
 Изучить спецификации формата чисел с плавающей точкой.
 В этих [спецификациях](Standards.doc) выделить фрагменты текста, являющиеся требованиями.
 
-* Немного теории. [IEEE 754](https://ru.wikipedia.org/wiki/IEEE_754-2008). 
+* Немного теории. [IEEE 754](https://ru.wikipedia.org/wiki/IEEE_754-2008).
+  [Слайды](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/lectures/04-float.pdf)
+  с описанием чисел с плавающей точкой.
 * Задание. [PDF](HomeTasks01.pdf). [DOC](HomeTasks01.docx).
 * Файл со стандартом (спецификация). [PDF](Standards.pdf). [DOC](Standards.doc).
 
