@@ -37,7 +37,10 @@ https://docs.google.com/spreadsheets/d/1anuTyzeSxM6RLMrjRPikc1xGUy3RIsUMGwwNzaJ7
 Его версия материалов находятся [здесь](seminars/denis/index.htm).
 
 Сайт [Виктора Кулямина](https://www.hse.ru/org/persons/161646599)
-с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home). 
+с лекциями находится [здесь](https://sites.google.com/site/swtestcourse/home).
+
+Лекции Никиты Налютина (преподавал аналогичный курс в ВШЭ ранее)
+можно найти [здесь](https://www.intuit.ru/studies/courses/1040/209/info). 
 
 ## Обратная связь
 
