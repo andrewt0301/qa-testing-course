@@ -1,0 +1,52 @@
+group 'example01'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'findbugs'
+apply plugin: 'java'
+apply plugin: 'jacoco'
+
+sourceCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.testng', name: 'testng', version: '6.1.1'
+    findbugs 'com.google.code.findbugs:findbugs:3.0.1'
+}
+
+task testng(type: Test) {
+    useTestNG()
+    reports.html.destination = file("$buildDir/reports/testng")
+}
+
+test.dependsOn testng
+
+test {
+    useJUnit()
+    reports.html.destination = file("$buildDir/reports/junit")
+}
+
+findbugs {
+    ignoreFailures = true
+}
+
+jacoco {
+    toolVersion = "0.7.5.201505241946"
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        csv.enabled false
+    }
+}
+
+tasks.withType(FindBugs) {
+    reports {
+        xml.enabled false
+        html.enabled true
+    }
+}
