@@ -16,6 +16,16 @@
 
 ### Видео
 
+__TODO__
+
+### Примеры 
+
+Пример проекта с тестами на JUnit (параметризованными) можно найти [здесь](
+https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar03/examples/parameterized).
+
+Пример проекта, демонстрирующего измерение тестового покрытия можно найти [здесь](
+https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar03/examples/coverage).
+
 ### Домашнее задание
 
 __Срок сдачи без [штрафа](../../grading.md): ??.10.2020__
