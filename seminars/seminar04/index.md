@@ -4,6 +4,15 @@
 
 ### Слайды
 
+#### JUnit
+
+* [PDF](Seminar04-JUnit-slides.pdf)
+* [PPTX](Seminar04-JUnit-slides.pptx)
+
+#### unittest
+
+* [PDF](Seminar04-unittest-slides.pdf)
+* [PPTX](Seminar04-unittest-slides.pptx)
 
 ### Видео
 
