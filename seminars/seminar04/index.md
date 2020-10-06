@@ -17,8 +17,8 @@
 
 ### Видео
 
-* [Часть 1]()
-* [Часть 2]()
+* [Часть 1](https://yadi.sk/i/FSxE3g9wfKcYmw)
+* [Часть 2](https://yadi.sk/i/vGyNH3qHTpnBSg)
 
 ### Примеры 
 
