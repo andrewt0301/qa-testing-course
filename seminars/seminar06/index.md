@@ -28,3 +28,5 @@ https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar06/
 ### Ссылки
 
 #### Литература
+
+1. [Логика Хоара](https://ru.wikipedia.org/wiki/Логика_Хоара).

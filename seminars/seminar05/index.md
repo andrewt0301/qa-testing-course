@@ -49,3 +49,5 @@ __Срок сдачи без [штрафа](../../grading.md): ??.10.2020__
 ### Ссылки
 
 #### Литература
+
+1. [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.3/).
