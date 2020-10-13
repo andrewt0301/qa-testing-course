@@ -19,6 +19,12 @@ __Срок сдачи без [штрафа](../../grading.md): ??.??.2020__
 
 * Описание задания ([PDF](HomeTasks05.pdf), [DOCX](HomeTasks05.docx)).
 
+* [Файл с кодом на Java](
+https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar06/java/Account.java).
+
+* [Файл с кодом на Python](
+https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar06/python/account.py).
+
 ### Ссылки
 
 #### Литература
