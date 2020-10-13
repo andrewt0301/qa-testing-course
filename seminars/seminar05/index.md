@@ -55,3 +55,4 @@ __Срок сдачи без [штрафа](../../grading.md): ??.10.2020__
 1. [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.3/)
 1. [pytest](https://docs.pytest.org/en/stable/)
 1. [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html)
+1. [PyTest in PyCharm](https://www.jetbrains.com/help/pycharm/pytest.html#enable-pytest)
