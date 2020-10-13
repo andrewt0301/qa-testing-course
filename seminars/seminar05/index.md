@@ -50,4 +50,8 @@ __Срок сдачи без [штрафа](../../grading.md): ??.10.2020__
 
 #### Литература
 
-1. [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.3/).
+1. [TestNG](https://testng.org)
+1. [JaCoCo](https://www.jacoco.org)
+1. [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.3/)
+1. [pytest](https://docs.pytest.org/en/stable/)
+1. [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html)
