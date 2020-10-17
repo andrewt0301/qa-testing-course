@@ -28,7 +28,7 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar03/
 
 ### Домашнее задание
 
-__Срок сдачи без [штрафа](../../grading.md): ??.10.2020__
+__Срок сдачи без [штрафа](../../grading.md): 27.10.2020__
 
 * Теория ([PDF](Seminar05Theory.pdf), [DOCX](Seminar05Theory.docx)).
 
