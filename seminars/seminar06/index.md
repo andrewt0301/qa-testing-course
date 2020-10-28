@@ -29,4 +29,10 @@ https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar06/
 
 #### Литература
 
+1. [Контрактное программирование](https://ru.wikipedia.org/wiki/Контрактное_программирование).
 1. [Логика Хоара](https://ru.wikipedia.org/wiki/Логика_Хоара).
+1. [Z3 Theorem Prover](https://en.wikipedia.org/wiki/Z3_Theorem_Prover).
+1. [Z3 Tutorial](https://rise4fun.com/Z3/tutorial/guide).
+1. [Constraint Programming](https://en.wikipedia.org/wiki/Constraint_programming).
+1. [Dennis Yurichev - SAT/SMT by Example - With many examples using Z3Py](
+    https://yurichev.com/writings/SAT_SMT_by_example.pdf).
