@@ -8,6 +8,11 @@
 * [PDF](Seminar07.pdf)
 * [PPTX](Seminar07.pptx)
 
+### Пример
+
+* [PDF](Mutants_Example.pdf)
+* [DOC](Mutants_Example.doc)
+
 ### Видео
 
 * __TODO__
