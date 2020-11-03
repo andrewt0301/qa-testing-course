@@ -6,45 +6,57 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <pitest.version>1.4.3</pitest.version>
     </properties>
-
-    <modelVersion>4.0.0</modelVersion>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.pitest</groupId>
-                <artifactId>pitest-maven</artifactId>
-                <version>1.4.10</version>
-                <configuration>
-                    <verbose>true</verbose>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
     <groupId>testing-hse</groupId>
     <artifactId>mutation-tests</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
+        <!-- junit 5, unit test -->
         <dependency>
-            <groupId>org.pitest</groupId>
-            <artifactId>pitest-maven</artifactId>
-            <version>1.4.10</version>
-            <type>pom</type>
-        </dependency>
-        <dependency>
-            <groupId>org.pitest</groupId>
-            <artifactId>pitest-junit5-plugin</artifactId>
-            <version>0.8</version>
-        </dependency>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.4.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <modelVersion>4.0.0</modelVersion>
+    <build>
+    <finalName>maven-mutation-testing</finalName>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.0.0-M5</version>
+        </plugin>
+
+        <plugin>
+            <groupId>org.pitest</groupId>
+            <artifactId>pitest-maven</artifactId>
+            <version>1.5.2</version>
+            <configuration>
+                <targetClasses>
+                    <param>ru.hse.ClassToTest</param>
+                </targetClasses>
+                <targetTests>
+                    <param>ru.hse.ClassToTestTest</param>
+                </targetTests>
+            </configuration>
+
+            <dependencies>
+                <dependency>
+                    <groupId>org.pitest</groupId>
+                    <artifactId>pitest-junit5-plugin</artifactId>
+                    <version>0.12</version>
+                </dependency>
+            </dependencies>
+        </plugin>
+
+        </plugins>
+    </build>
 
 
 </project>
