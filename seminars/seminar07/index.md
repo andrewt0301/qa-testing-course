@@ -40,9 +40,10 @@ __Срок сдачи без [штрафа](../../grading.md): ??.11.2020__
 
 #### Литература
 
-1. [Про мутационное тестирование](https://habr.com/ru/post/334394/).
+1. [Мутационное тестирование](https://ru.wikipedia.org/wiki/Мутационное_тестирование) (Wikipedia).
+1. [Про мутационное тестирование](https://habr.com/ru/post/334394/) (Хабр).
 1. [Pitest](https://pitest.org).
-1. [Пример работы с PIT mutator](https://habr.com/ru/post/139337/).
+1. [Пример работы с PIT mutator](https://habr.com/ru/post/139337/) (Хабр).
 1. [Еще про мутационное тестирование](http://getbug.ru/mutatsionnoe-testirovanie-na-prostom-primere/).
 1. [JS](https://habr.com/ru/post/341094/).
 1. [Python](https://habr.com/ru/company/vdsina/blog/512630/).
