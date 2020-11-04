@@ -11,7 +11,7 @@
 ### Пример
 
 Java-проект со скриптом сборки для Maven,
-который демонстрирует использование Pitest для мутационного тестирования,
+который демонстрирует использование [Pitest](https://pitest.org) для мутационного тестирования,
 находится [здесь](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar07/example).
 
 ### Видео
