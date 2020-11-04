@@ -69,5 +69,6 @@ __Срок сдачи без [штрафа](../../grading.md): ??.11.2020__
 1. [Еще про мутационное тестирование](http://getbug.ru/mutatsionnoe-testirovanie-na-prostom-primere/).
 1. [Pitest example](https://mkyong.com/maven/maven-pitest-mutation-testing-example/).
 1. [JaCoCo для Maven](https://www.codeflow.site/ru/article/maven__maven-jacoco-code-coverage-example).
+1. [JUnit 5 with Maven](https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-running-unit-tests-with-maven/).
 1. [JS](https://habr.com/ru/post/341094/).
 1. [Python](https://habr.com/ru/company/vdsina/blog/512630/).
