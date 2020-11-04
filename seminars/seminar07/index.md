@@ -17,19 +17,23 @@
 Java-проект со скриптом сборки для Maven,
 который демонстрирует использование [Pitest](https://pitest.org) для мутационного тестирования,
 находится [здесь](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar07/example).
-В примере используются тесты на [JUnit 5](https://junit.org/junit5/).
+В проекте используются тесты на [JUnit 5](https://junit.org/junit5/).
+Настроено измерение тестового покрытия при помощи [JaCoCo](https://www.eclemma.org/jacoco/).
 
 Для запуска мутационного тестирования нужно запустить следующие задания Maven-а:
 
-1. compile - скомпилировать код;
-1. test - скомпилировать тесты;
-1. pitest:mutationCoverage - запустить Pitest.
+1. _compile_ - скомпилировать код;
+1. _test_ - скомпилировать тесты;
+1. _pitest:mutationCoverage_ - запустить Pitest.
 
-Отчет о тестировании в формате HTML будет в папке `example/target/pit-reports`.
+Отчет о тестировании Pitest (в формате HTML) будет в папке `example/target/pit-reports`.
+Отчет о покрытии JaCoCo (в формате HTML) будет в папке `example/target/site/jacoco`
+Можно сравнить эти отчеты и заметить, что покрытие кода на 100% не всегда означает,
+что код был полностью протестирован. 
 
 В IntelliJ IDEA все выглядит так:
 
-![Pitest в IntelliJ IDEA](example/Screenshot.png).
+![IntelliJ IDEA](Screenshot.png).
 
 ### Домашнее задание
 
@@ -63,5 +67,6 @@ __Срок сдачи без [штрафа](../../grading.md): ??.11.2020__
 1. [Pitest](https://pitest.org).
 1. [Пример работы с PIT mutator](https://habr.com/ru/post/139337/) (Хабр).
 1. [Еще про мутационное тестирование](http://getbug.ru/mutatsionnoe-testirovanie-na-prostom-primere/).
+1. [JaCoCo для Maven](https://www.codeflow.site/ru/article/maven__maven-jacoco-code-coverage-example).
 1. [JS](https://habr.com/ru/post/341094/).
 1. [Python](https://habr.com/ru/company/vdsina/blog/512630/).
