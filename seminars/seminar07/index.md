@@ -67,6 +67,7 @@ __Срок сдачи без [штрафа](../../grading.md): ??.11.2020__
 1. [Pitest](https://pitest.org).
 1. [Пример работы с PIT mutator](https://habr.com/ru/post/139337/) (Хабр).
 1. [Еще про мутационное тестирование](http://getbug.ru/mutatsionnoe-testirovanie-na-prostom-primere/).
+1. [Pitest example](https://mkyong.com/maven/maven-pitest-mutation-testing-example/).
 1. [JaCoCo для Maven](https://www.codeflow.site/ru/article/maven__maven-jacoco-code-coverage-example).
 1. [JS](https://habr.com/ru/post/341094/).
 1. [Python](https://habr.com/ru/company/vdsina/blog/512630/).
