@@ -17,6 +17,19 @@
 Java-проект со скриптом сборки для Maven,
 который демонстрирует использование [Pitest](https://pitest.org) для мутационного тестирования,
 находится [здесь](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar07/example).
+В примере используются тесты на [JUnit 5](https://junit.org/junit5/).
+
+Для запуска мутационного тестирования нужно запустить следующие задания Maven-а:
+
+1. compile - скомпилировать код;
+1. test - скомпилировать тесты;
+1. pitest:mutationCoverage - запустить Pitest.
+
+Отчет о тестировании в формате HTML будет в папке `example/target/pit-reports`.
+
+В IntelliJ IDEA все выглядит так:
+
+![Pitest в IntelliJ IDEA](example/Screenshot.png).
 
 ### Домашнее задание
 
