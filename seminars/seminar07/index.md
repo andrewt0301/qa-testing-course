@@ -10,7 +10,7 @@
 
 ### Видео
 
-* [Видео](https://yadi.sk/i/kJUPHuv6cn0Y9Q).
+* [Видео](https://yadi.sk/i/kJUPHuv6cn0Y9Q)
 
 ### Пример
 
