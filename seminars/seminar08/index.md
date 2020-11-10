@@ -47,7 +47,6 @@
 * http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
 
 Коммерческие инструменты тестирования графического интерфейса:
-* https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2017
-* https://smartbear.com/product/testcomplete/overview/
-* https://www.ranorex.com/
-* https://software.microfocus.com/en-us/products/unified-functional-automated-testing/overview
+* [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2017)
+* [TestComplete](https://smartbear.com/product/testcomplete/overview/). [Russian](https://smartbear.ru/company/products/testcomplete.aspx). 
+* [Ranorex](https://www.ranorex.com/)
