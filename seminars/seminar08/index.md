@@ -26,25 +26,27 @@
 #### Литература
 
 Тестирование графического интерфейса:
-* https://en.wikipedia.org/wiki/Graphical_user_interface_testing
-* https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools
+* [Тестирование графического интерфейса](
+  https://en.wikipedia.org/wiki/Graphical_user_interface_testing) (Wikipedia)
+* [Инструменты тестирования графического интерфейса](
+  https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools) (Wikipedia)
 
 Автоматизация действий пользователя в Windows:
-* https://www.autoitscript.com/site/autoit/
-* https://en.wikipedia.org/wiki/Windows_Script_Host
+* [Windows Script Host](https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [AutoIt](https://www.autoitscript.com/site/autoit/)
 
 Автоматизация действий пользователя в Java (AWT Robot):
-* https://docs.oracle.com/javase/10/docs/api/java/awt/Robot.html
-* https://www.geeksforgeeks.org/robot-class-java-awt/
+* [Robot: Oracle documentation](https://docs.oracle.com/javase/10/docs/api/java/awt/Robot.html)
+* [Robot: GeeksforGeeks tuturial](https://www.geeksforgeeks.org/robot-class-java-awt/)
 
 Открытая библиотека AssertJ для тестирования Swing-приложений:
-* http://joel-costigliola.github.io/assertj/assertj-swing.html
+* [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) (GitHub)
 
 Средство автоматизированного тестирования Android-приложений Espresso:
-* https://developer.android.com/training/testing/espresso/
-* https://developer.android.com/training/testing/ui-testing/espresso-testing
-* https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b
-* http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
+* [Espresso](https://developer.android.com/training/testing/espresso/)
+* [Espresso: oficial tutorial](https://developer.android.com/training/testing/ui-testing/espresso-testing)
+* [Espresso: another tuturial](https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b)
+* [Espresso: one more tuturial](http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
 
 Коммерческие инструменты тестирования графического интерфейса:
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2017)
