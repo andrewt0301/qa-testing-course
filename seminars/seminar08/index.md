@@ -19,7 +19,8 @@
 
 ### Видео
 
-* __TODO__ 
+* [Часть 1](https://yadi.sk/i/n3Z9C6XtCGngEw)
+* [Часть 2](https://yadi.sk/i/v52rUap3SmX9hg)
 
 ### Ссылки
 
