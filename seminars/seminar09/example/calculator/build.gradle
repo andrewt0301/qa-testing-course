@@ -1,0 +1,47 @@
+group 'example'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'jacoco'
+
+compileJava {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+compileTestJava {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.assertj', name: 'assertj-swing-junit', version: '3.9.2'
+
+    testCompile group: 'org.testng', name: 'testng', version: '6.11'
+    testCompile group: 'org.assertj', name: 'assertj-swing-testng', version: '3.9.2'
+}
+
+task testng(type: Test) {
+    useTestNG()
+    reports.html.destination = file("$buildDir/reports/testng")
+}
+
+test {
+    useJUnit()
+    reports.html.destination = file("$buildDir/reports/junit")
+}
+
+jacoco {
+    toolVersion = "0.8.5"
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        csv.enabled false
+    }
+}
