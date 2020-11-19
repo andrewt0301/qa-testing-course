@@ -76,6 +76,8 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 * [TestComplete](https://smartbear.com/product/testcomplete/overview/),
   сайт российского R&D [здесь](https://smartbear.ru/company/products/testcomplete.aspx)
 * [Ranorex](https://www.ranorex.com/)
+* [Micro Focus Unified Functional Testing (UFT), formerly known as QuickTest Professional (QTP)](
+  https://en.wikipedia.org/wiki/Micro_Focus_Unified_Functional_Testing) (Wikipedia)
 
 Открытая библиотека AssertJ для тестирования Swing-приложений:
 * [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) (GitHub)
