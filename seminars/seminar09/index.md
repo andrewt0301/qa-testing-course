@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools).
 https://joel-costigliola.github.io/assertj/assertj-swing.html) находится [здесь](
 https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/example/calculator).
 
-Требуется использовать JDK 8. У более поздних версий могут быть проблемы с совместимостью
+Рекомендуется использовать __JDK 8__. У более поздних версий могут быть проблемы с совместимостью
 (к сожалению разработчики AssertJ не успевают за эволюцией Java).
 
 Для запуска тестов под MacOS необходимо разрешить IntelliJ IDEA управлять компьютером: 
