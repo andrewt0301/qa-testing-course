@@ -68,7 +68,7 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 Тестирование расширений для IntelliJ IDEA:
 * [Юрий Артамонов "Тип􏰀ы автоматического тестировани􏰁я в IntelliJ IDEA"](
   https://github.com/andrewt0301/qa-testing-course/tree/master/related/Yuriy_Artamonov_Testing_IntelliJ_2020_11.pdf)
-* [IntelliJ SDK guide](
+* [IntelliJ SDK Guide](
   https://jetbrains.org/intellij/sdk/docs/basics/testing_plugins/testing_plugins.html)
 * [IntelliJ UI Test Robot](
   https://github.com/JetBrains/intellij-ui-test-robot)
