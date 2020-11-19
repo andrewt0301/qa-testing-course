@@ -13,6 +13,17 @@
 * [Часть 1](TODO)
 * [Часть 2](TODO)
 
+### Пример
+
+Проект с примерами GUI-тестов на фреймворке [AssertJ](
+https://joel-costigliola.github.io/assertj/assertj-swing.html) находится [здесь](
+https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/example/calculator).
+
+Требуется использовать JDK 8. У более поздних версий могут быть проблемы с совместимостью
+(к сожалению разработчики AssertJ не успевают за эволюцией Java).
+
+Для запуска тестов под MacOS необходимо разрешить IntelliJ IDEA управлять компьютером: 
+
 ![MacOS Security](MacOsSecurity.png)
 
 ### Домашнее задание
