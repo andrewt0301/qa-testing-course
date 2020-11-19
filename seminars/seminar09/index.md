@@ -58,8 +58,8 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 
 Коммерческие инструменты тестирования графического интерфейса:
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2017)
-* [TestComplete](https://smartbear.com/product/testcomplete/overview/), Russian site is [here](
-  https://smartbear.ru/company/products/testcomplete.aspx)
+* [TestComplete](https://smartbear.com/product/testcomplete/overview/),
+  сайт российского R&D [здесь](https://smartbear.ru/company/products/testcomplete.aspx)
 * [Ranorex](https://www.ranorex.com/)
 
 Открытая библиотека AssertJ для тестирования Swing-приложений:
