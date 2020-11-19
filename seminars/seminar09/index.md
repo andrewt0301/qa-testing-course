@@ -47,8 +47,17 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 
 Коммерческие инструменты тестирования графического интерфейса:
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2017)
-* [TestComplete](https://smartbear.com/product/testcomplete/overview/). [Russian](https://smartbear.ru/company/products/testcomplete.aspx). 
+* [TestComplete](https://smartbear.com/product/testcomplete/overview/), Russian site is [here](
+  https://smartbear.ru/company/products/testcomplete.aspx)
 * [Ranorex](https://www.ranorex.com/)
 
 Открытая библиотека AssertJ для тестирования Swing-приложений:
 * [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) (GitHub)
+
+Тестирование расширений для IntelliJ IDEA:
+* [Юрий Артамонов "Тип􏰀ы автоматического тестировани􏰁я в IntelliJ IDEA"](
+  https://github.com/andrewt0301/qa-testing-course/tree/master/related/Yuriy_Artamonov_Testing_IntelliJ_2020_11.pdf)
+* [IntelliJ SDK guide](
+  https://jetbrains.org/intellij/sdk/docs/basics/testing_plugins/testing_plugins.html)
+* [IntelliJ UI Test Robot](
+  https://github.com/JetBrains/intellij-ui-test-robot)
