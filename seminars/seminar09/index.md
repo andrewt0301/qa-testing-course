@@ -83,7 +83,7 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 * [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) (GitHub)
 
 Тестирование расширений для IntelliJ IDEA:
-* [Юрий Артамонов "Тип􏰀ы автоматического тестировани􏰁я в IntelliJ IDEA"](
+* [Юрий Артамонов "Типы автоматического тестирования в IntelliJ IDEA"](
   https://github.com/andrewt0301/qa-testing-course/tree/master/related/Yuriy_Artamonov_Testing_IntelliJ_2020_11.pdf)
 * [IntelliJ SDK Guide](
   https://jetbrains.org/intellij/sdk/docs/basics/testing_plugins/testing_plugins.html)
