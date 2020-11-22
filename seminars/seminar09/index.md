@@ -78,6 +78,7 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 * [Ranorex](https://www.ranorex.com/)
 * [Micro Focus Unified Functional Testing (UFT), formerly known as QuickTest Professional (QTP)](
   https://en.wikipedia.org/wiki/Micro_Focus_Unified_Functional_Testing) (Wikipedia)
+* [Silk Test](https://www.microfocus.com/ru-ru/products/silk-test/features)
 
 Открытая библиотека AssertJ для тестирования Swing-приложений:
 * [AssertJ Swing](http://joel-costigliola.github.io/assertj/assertj-swing.html) (GitHub)
