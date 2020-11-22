@@ -25,8 +25,8 @@ https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools).
 
 ### Видео
 
-* [Часть 1](TODO)
-* [Часть 2](TODO)
+* [Часть 1](https://yadi.sk/i/4HoaGZDAS1aKgg)
+* [Часть 2](https://yadi.sk/i/DCZ6oNhB4P1nPQ)
 
 ### Пример
 
@@ -43,7 +43,7 @@ https://github.com/andrewt0301/qa-testing-course/tree/master/seminars/seminar09/
 
 ### Домашнее задание
 
-__Срок сдачи без [штрафа](../../grading.md): ??.??.2020__
+__Срок сдачи без [штрафа](../../grading.md): 01.12.2020__
 
 #### Задание
 
