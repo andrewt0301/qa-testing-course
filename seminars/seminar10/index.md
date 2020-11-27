@@ -22,3 +22,5 @@
 * Книга [“Основы веб-хакинга. Более 30 примеров уязвимостей”](
   https://drive.google.com/open?id=0BxSD8FAEX1XfaVVxUy1pWDFXakk)
 * [Основы SQLi (пример работы с bWAPP)](https://hackware.ru/?p=3362)
+* Джеймс Уиттакер – «Как тестируют в Google»
+
