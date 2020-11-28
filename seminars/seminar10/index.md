@@ -10,8 +10,8 @@
 
 ### Видео
 
-* [Часть 1](TODO)
-* [Часть 2](TODO)
+* [Часть 1](https://yadi.sk/i/Htyf85hQfqxnKw)
+* [Часть 2](https://yadi.sk/i/YqwY2dW_lMkn8A)
 
 ### Ссылки
 
@@ -22,5 +22,4 @@
 * Книга [“Основы веб-хакинга. Более 30 примеров уязвимостей”](
   https://drive.google.com/open?id=0BxSD8FAEX1XfaVVxUy1pWDFXakk)
 * [Основы SQLi (пример работы с bWAPP)](https://hackware.ru/?p=3362)
-* Джеймс Уиттакер – «Как тестируют в Google»
-
+* Книга Джеймс Уиттакер – “Как тестируют в Google“
