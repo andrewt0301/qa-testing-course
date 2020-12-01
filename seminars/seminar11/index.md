@@ -22,7 +22,14 @@
   таким образом масштабируя стенд автоматизации.
 
 В данной практической работе будет использоваться Selenium IDE.
-Сценарии Web-тестирования будут создаваться путем запись и редактирования DSL-кода. 
+Сценарии Web-тестирования будут создаваться путем запись и редактирования DSL-кода.
+
+### Примеры 
+
+Примеры тестов для Selenium IDE (DSL на носнове JSON):
+
+* [Пример 1](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar11/example.side).
+* [Пример 2](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar11/test.side).
 
 ### Слайды
 
@@ -47,6 +54,3 @@ __Срок сдачи без [штрафа](../../grading.md): ??.12.2020__
 1. [Selenium IDE](https://www.selenium.dev/selenium-ide/).
 1. [Хабр про Selenium](https://habr.com/ru/post/152653/).
 1. [Пример](https://automated-testing.info/t/pishem-testy-na-selenium-ide-passhirenie-k-brauzeru-firefox/2455).
-
-
-
