@@ -26,7 +26,7 @@
 
 ### Примеры 
 
-Примеры тестов для Selenium IDE (DSL на носнове JSON):
+Примеры тестов для Selenium IDE (DSL на основе JSON, нужно открыть в Selenium IDE):
 
 * [Пример 1](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar11/example.side).
 * [Пример 2](https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar11/test.side).
