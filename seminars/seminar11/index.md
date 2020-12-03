@@ -38,8 +38,8 @@
 
 ### Видео
 
-* [Часть 1](TODO)
-* [Часть 2](TODO)
+* [Часть 1](https://yadi.sk/i/V_-OJKirmjNwJA)
+* [Часть 2](https://yadi.sk/i/EvkV_R6Cr9BMxA)
 
 ### Домашнее задание
 
@@ -52,5 +52,6 @@ __Срок сдачи без [штрафа](../../grading.md): ??.12.2020__
 #### Литература
 
 1. [Selenium IDE](https://www.selenium.dev/selenium-ide/).
+1. [Simon Stewart. Selenium IDE.](https://applitools.com/blog/selenium-ide-by-simon-stewart/)
 1. [Хабр про Selenium](https://habr.com/ru/post/152653/).
 1. [Пример](https://automated-testing.info/t/pishem-testy-na-selenium-ide-passhirenie-k-brauzeru-firefox/2455).
