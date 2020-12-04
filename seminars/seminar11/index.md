@@ -40,10 +40,11 @@
 
 * [Часть 1](https://yadi.sk/i/V_-OJKirmjNwJA)
 * [Часть 2](https://yadi.sk/i/EvkV_R6Cr9BMxA)
+* [Часть 3 - кратко самое важное](https://yadi.sk/i/FsQNKoYJkk-9Wg)
 
 ### Домашнее задание
 
-__Срок сдачи без [штрафа](../../grading.md): ??.12.2020__
+__Срок сдачи без [штрафа](../../grading.md): 12.12.2020__
 
 * Описание задания ([PDF](Homework08.pdf), [DOC](Homework08.doc)).
 
