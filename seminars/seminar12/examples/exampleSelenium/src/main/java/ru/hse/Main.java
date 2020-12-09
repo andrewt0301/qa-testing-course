@@ -1,4 +1,4 @@
-package com.company;
+package ru.hse;
 
 import java.nio.file.Paths;
 
