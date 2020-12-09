@@ -7,8 +7,6 @@
 
 Кроме этого Selenium WebDriver для Java доступен для скачивания из Maven-репозитория:
 http://docs.seleniumhq.org/download/maven.jsp
-Пример
-Пример TestNG-теста, использующего Selenium WebDriver находится в папке <seminar07>\examples\exampleSelenium. Этот тест запускает браузер Firefox, заходит на страницу google.com, вводит в окно поиска ключевое слово и ждет получения результата.
 
 Для успешной работы с проектом в IntelliJ IDEA необходимо:
 * Импортировать Gradle-проект build.gradle (Import Project и выбрать нужный файл).
@@ -26,9 +24,12 @@ http://docs.seleniumhq.org/download/maven.jsp
 
 Selenium IDE позволяет экспортировать записанные тесты в тесты на Java, Python и других языках.
 
-### Пример 
+### Пример
 
-__TODO__
+Пример TestNG-теста, использующего Selenium WebDriver, находится [здесь](examples/exampleSelenium).
+Этот тест запускает браузер, заходит на страницу google.com,
+вводит в окно поиска ключевое слово и ждет получения результата.
+Тест позволяет использовать несколько различныйх браузеров: Chrome, Firefox, Safari. 
 
 ### Слайды
 
