@@ -4,32 +4,36 @@
 # Автоматизированое тестирование Web-интерфейсов. Selenium WebDriver.
 
 В данной практической работе будет использоваться Selenium WebDriver.
+Его можно скачать [здесь](https://www.selenium.dev/downloads/).
 
-Кроме этого Selenium WebDriver для Java доступен для скачивания из Maven-репозитория:
-http://docs.seleniumhq.org/download/maven.jsp
-
-Для успешной работы с проектом в IntelliJ IDEA необходимо:
-* Импортировать Gradle-проект build.gradle (Import Project и выбрать нужный файл).
-  При этом будут скачаны все зависимости и создан IDEA-проект.
-* Открыть файл BasicSeleniumTestNGTest, который содержит код примера.
-* Если нужно использовать браузер, отличный от Firefox,
-  то необходимо вместо FirefoxDriver использовать другой драйвер (например, ChromeDriver).
-* Для запуска Java-драйвера требуется внешнее приложение драйвера,
-  которое необходимо скачать и задать к нему путь в переменой окружения
-  (для Firefox – "webdriver.gecko.driver", для Chrome –"webdriver.chrome.driver” и т.д.).
-  Переменная окружения задается в методе setUpClass. Нужный драйвер для нужно ОС ищется в Google.
-
-Для того, чтобы записывать Web-сценарии необходимо поставить Selenium IDE в свой браузер.
-Список возможных вариантов можно найти здесь: http://www.seleniumhq.org/download/
-
-Selenium IDE позволяет экспортировать записанные тесты в тесты на Java, Python и других языках.
+Кроме этого Selenium WebDriver для Java доступен для скачивания из
+[Maven-репозитория](https://mvnrepository.com/artifact/org.seleniumhq.selenium).
+Системы сборки Maven и Gradle позволяют автоматически скачать нужную версию.
 
 ### Пример
 
-Пример TestNG-теста, использующего Selenium WebDriver, находится [здесь](examples/exampleSelenium).
+Пример JUnit-теста, использующего Selenium WebDriver, находится [здесь](examples/exampleSelenium).
 Этот тест запускает браузер, заходит на страницу google.com,
 вводит в окно поиска ключевое слово и ждет получения результата.
-Тест позволяет использовать несколько различныйх браузеров: Chrome, Firefox, Safari. 
+Тест позволяет использовать несколько различных браузеров: Chrome, Safari, Firefox. 
+
+Для успешной работы с проектом в IntelliJ IDEA необходимо:
+
+* Импортировать Gradle-проект `build.gradle` (Import Project и выбрать нужный файл).
+  При этом будут скачаны все зависимости и создан IDEA-проект.
+
+* Открыть файл `src/test/java/ru/hse/BasicSeleniumTest.java`, который содержит код примера.
+
+* Для запуска теста для нужного типа браузера требуется скачать внешнее приложение драйвера и
+  разместить его в корневой папке проекта. Путь к нему задается в переменой окружения:
+  для Safari - ничего не нужно (в MacOS все уже есть),
+  для Chrome – `webdriver.chrome.driver`,
+  для Firefox – `webdriver.gecko.driver`, и т.д.
+  Ссылки для скачивани нужных версий драйвера можно найти [здесь](https://www.selenium.dev/downloads/).
+
+Для того, чтобы записывать Web-сценарии необходимо поставить Selenium IDE в свой браузер.
+Список возможных вариантов можно найти [здесь](https://www.selenium.dev/downloads/).
+Selenium IDE позволяет экспортировать записанные тесты в тесты на Java, Python и других языках.
 
 ### Слайды
 
@@ -50,7 +54,9 @@ __Срок сдачи без [штрафа](../../grading.md): ??.12.2020__
 
 #### Литература
 
-1. [Selenium IDE](https://www.selenium.dev/selenium-ide/).
-1. [Simon Stewart. Selenium IDE.](https://applitools.com/blog/selenium-ide-by-simon-stewart/)
-1. [Хабр про Selenium](https://habr.com/ru/post/152653/).
-1. [Пример](https://automated-testing.info/t/pishem-testy-na-selenium-ide-passhirenie-k-brauzeru-firefox/2455).
+1. [Simon Stewart. Selenium WebDriver.](
+   https://www.aosabook.org/en/selenium.html)
+1. [Учусь Selenium WebDriver. Бесплатная электронная книга.](
+   https://github.com/andrewt0301/qa-testing-course/tree/master/related/selenium-webdriver-ru.pdf)
+1. [Пример.](
+   https://automated-testing.info/t/pishem-testy-na-selenium-ide-passhirenie-k-brauzeru-firefox/2455)
