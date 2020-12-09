@@ -3,7 +3,8 @@
 
 # Автоматизированое тестирование Web-интерфейсов. Selenium WebDriver.
 
-В данной практической работе будет использоваться Selenium WebDriver.
+В данной практической работе будет использоваться
+[Selenium WebDriver](https://ru.wikipedia.org/wiki/Selenium).
 Его можно скачать [здесь](https://www.selenium.dev/downloads/).
 
 Кроме этого Selenium WebDriver для Java доступен для скачивания из
@@ -31,7 +32,7 @@
   для Firefox – `webdriver.gecko.driver`, и т.д.
   Ссылки для скачивани нужных версий драйвера можно найти [здесь](https://www.selenium.dev/downloads/).
 
-Для того, чтобы записывать Web-сценарии необходимо поставить Selenium IDE в свой браузер.
+Для того, чтобы записывать Web-сценарии необходимо установить Selenium IDE в свой браузер.
 Список возможных вариантов можно найти [здесь](https://www.selenium.dev/downloads/).
 Selenium IDE позволяет экспортировать записанные тесты в тесты на Java, Python и других языках.
 
