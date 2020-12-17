@@ -13,7 +13,8 @@
 
 ### Пример
 
-Пример JUnit-теста, использующего Selenium WebDriver, находится [здесь](examples/exampleSelenium).
+Пример JUnit-теста, использующего Selenium WebDriver, находится [здесь](
+https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar12/examples/exampleSelenium).
 Этот тест запускает браузер, заходит на страницу google.com,
 вводит в окно поиска ключевое слово и ждет получения результата.
 Тест позволяет использовать несколько различных браузеров: Chrome, Safari, Firefox. 
