@@ -3,10 +3,9 @@
 
 # Тестирование мобильных приложений.
 
-
 ### Пример
 
-Пример Android-приложегия и тестов к нему находится [здесь](
+Пример Android-приложения и тестов к нему находится [здесь](
 https://github.com/andrewt0301/qa-testing-course/blob/master/seminars/seminar14/android/).
 
 ### Слайды

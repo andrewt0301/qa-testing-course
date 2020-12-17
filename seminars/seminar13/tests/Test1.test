@@ -1,0 +1,52 @@
+--- RCPTT testcase ---
+Format-Version: 1.0
+Contexts: _nZLMQB_VEeqby7CCqIT7Ig
+Element-Name: Test1
+Element-Type: testcase
+Element-Version: 3.0
+External-Reference: 
+Id: _64unIB_TEeqby7CCqIT7Ig
+Runtime-Version: 2.4.3.201909171500
+Save-Time: 12/16/19 10:33 AM
+Testcase-Type: ecl
+
+------=_.content-0a7243a0-75d3-3d5f-9791-539de0e5b7ac
+Content-Type: text/ecl
+Entry-Name: .content
+
+get-menu -path "Window/Show View/Other..." | click
+with [get-window "Show View" | get-tree] {
+    select ECalculator | double-click
+    select "ECalculator/ECalculator" | double-click
+}
+with [get-view ECalculator] {
+    get-button 1 | click
+    get-button 2 | click
+    get-button 3 | click
+    get-button 4 | click
+    get-button 5 | click
+    get-button 6 | click
+    get-button 7 | click
+    get-button 8 | click
+    get-button 9 | click
+}
+with [get-view ECalculator] {
+    get-button "-" | click
+    get-button 9 | click
+    get-button 8 | click
+    get-button 7 | click
+    get-button 6 | click
+    get-button 5 | click
+    get-button 4 | click
+    get-button 3 | click
+    get-button 2 | click
+    get-button 1 | click
+}
+with [get-view ECalculator] {
+    get-editbox | click-text
+    get-button "=" | click
+    get-editbox | click-text "1:5"
+}
+get-view ECalculator | get-editbox | get-property "getText()" | equals "-864197532" | verify-true
+
+------=_.content-0a7243a0-75d3-3d5f-9791-539de0e5b7ac--
